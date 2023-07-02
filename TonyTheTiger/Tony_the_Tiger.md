@@ -477,7 +477,7 @@ Use `bas64` to decode the string
 BC77AC072EE30E3760806864E234C7CF
 ```
 
-Copy the result string to [CrackStation](https://www.notion.so/Network-7a306564d6074937b4ea8098c0f4979f?pvs=21) to crack the hash or you can paste it into another file and use `hashcat` instead.
+Copy the result string to [CrackStation](https://crackstation.net/) to crack the hash or you can paste it into another file and use `hashcat` instead.
 
 ```tsx
 ┌──(kali㉿kali)-[~/TryHackMe/tonythetiger]
