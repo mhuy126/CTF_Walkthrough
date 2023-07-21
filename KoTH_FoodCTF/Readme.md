@@ -16,5 +16,9 @@
 - Rot12 decrypt
 - MySQL default creds
 - Extract hidden data with ****steghide**** tool
+- Read script
+- `POST` request within data
+- Reverse shell
 - privilege escalation: `SUID`, `screen-4.5.0` script exploit
 - `grep -R {target_string}`
+- Do not ignore ****hidden things**** :`ls -la`
